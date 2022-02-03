@@ -8,13 +8,14 @@ $ pip install -r requirement.txt
 
 ## Introduction
 Steganography is a technique of secret data hiding within some file or message.There are so many type of staganography is available like 
-image-steganography
-text-steganography
-video-steganography
-audio-steganography
+- image-steganography
+- text-steganography
+- video-steganography
+- audio-steganography
 
 image-steganography is an art of hiding data behind the image.
-steganography.py will hide the data for image and dataRetrive.py will extract data from the image.
+`steganography.py` will hide the data for image and `dataRetrive.py` will extract data from the image.
+before run this program, just replace your path for image and text in both files.
 
 ## Short Descrition on algorithm
 ```
@@ -34,7 +35,6 @@ append 3rd part(2 bit) of that character to B
 store the modified image
 ```
 
-before run this program, just put your path for images and text file in both files.
 
 ## Limitation
 - This program is **run for only PNG images**. so before starting, just convert your image to png. Note that, This program **not work for JPG/JPEG.**
