@@ -17,7 +17,7 @@ image-steganography is an art of hiding data behind the image.
 `steganography.py` will hide the data for image and `dataRetrive.py` will extract data from the image.
 before run this program, just replace your path for image and text in both files.
 
-## Short Descrition on algorithm
+## Short Description on algorithm
 ```
 read the image
 read the text
