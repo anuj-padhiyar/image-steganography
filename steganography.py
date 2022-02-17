@@ -76,26 +76,3 @@ if __name__ == "__main__":
     else:
         print("Data is too big!!")
         print("compress the data or select big image.")
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
